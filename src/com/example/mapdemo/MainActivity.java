@@ -43,6 +43,7 @@ public class MainActivity extends Activity implements
 	LocationRequest mLocationRequest;
 	
 	//wtf
+	//Here i put a small change
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
